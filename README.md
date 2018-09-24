@@ -20,12 +20,14 @@ Terá 1 página.
     - Limpar lista, excluir todos os itens da lista
 - **Fase 4**	
     - Não permitir que um item seja adicionado se só tiver espaços e nenhum texto no input
+- **Fase 5**	
+    - 
 
 --------------
 
 ##CRONOGRAMA
 - **24/09:** Revisão de Js e Github;
-- **25/09:** Desenvolvimento de projeto;
+- **25/09:** Desenvolvimento de projeto, iniciando um repositório no github e subindo alterações ao longo da semana;
 - **26/09:** Desenvolvimento de projeto;
 - **27/09:** Desenvolvimento de projeto;
 - **28/09:** 
