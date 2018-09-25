@@ -38,6 +38,8 @@ Tem como objetivo exercitar os conhecimento adquiridos em HTML, CSS, Javascript 
     - **[PRAZO DE ENTREGA]** Desenvolvimento de projeto, até 15h30.
     - Subir no GitHub de ambas as alunas.
 
+--------------
+
 ## RECURSOS
 - Font: Open Sans
 - Cores #e0c3fc, #8ec5fc, #ba7af8
